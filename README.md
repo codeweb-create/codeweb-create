@@ -1,4 +1,4 @@
-🚀 Hi, I'm Olga!  
+🚀 Hi, I'm Olga! 
 
 💎 **Prompt Engineer | AI Specialist | Web Developer | Web Designer**  
 
