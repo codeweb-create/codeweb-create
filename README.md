@@ -12,4 +12,3 @@ I specialize in developing, testing, and optimizing prompts for AI, creating eff
 
 🎯 **My goal** is to develop innovative AI-powered solutions that make technology more accessible and valuable.  
 
-📩 **Let's connect:** https://www.linkedin.com/in/web-infinity/
