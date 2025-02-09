@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Olga
-- 👀 I'm interested in everything what about Web Development and Web Design
-- 🌱 I’m currently learning Gulp
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/olga-rjaimova-055354224/
+🚀 Hi, I'm Olga!  
 
-I am a beginner freelancer in Web Development and Web Design. I study everything related to this area. I can compare it to an exciting journey called "Without Borders".
+💎 **Prompt Engineer | AI Specialist | Web Developer | Web Designer**  
+
+I specialize in developing, testing, and optimizing prompts for AI, creating efficient solutions for various business needs.  
+
+### 🔥 My expertise includes:  
+- **AI-driven solutions:** ChatGPT, OpenAI API, LangChain, LLMs  
+- **Python development** for automation and AI-powered applications  
+- **Web development & design:** UX/UI, responsive websites  
+- **AI integration** into business processes to improve efficiency and automation  
+
+🎯 **My goal** is to develop innovative AI-powered solutions that make technology more accessible and valuable.  
+
+📩 **Let's connect:** https://www.linkedin.com/in/web-infinity/
